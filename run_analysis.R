@@ -1,6 +1,6 @@
 # 1. Merge the training and the test sets to create one data set.
 
-## Read in data from the Training subset
+## Read in data from the Training set
 
 subjectTrain <- read.table("UCI HAR Dataset/train/subject_train.txt", col.names = c("subjectId"))
 
@@ -11,7 +11,7 @@ yTrain <- read.table("UCI HAR Dataset/train/y_train.txt")
 trainData <- cbind(yTrain, subjectTrain, xTrain)
 
 
-## Reading in data from the Test subject
+## Reading in data from the Test sett
 
 subjectTest <- read.table("UCI HAR Dataset/test/subject_test.txt", col.names = c("subjectId"))
 
