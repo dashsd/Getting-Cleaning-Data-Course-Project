@@ -4,7 +4,7 @@ This is the repo for the course project for Getting and Cleaning Data Course tha
 
 Contains of this repo are as follows:
 
-1.	run_analysis.r:	This R script is used for processing the data from a given data set & finally producing the required tidy data set.
+1.	run_analysis.R:	This R script is used for processing the data from a given data set & finally producing the required tidy data set.
 
 2.	CodeBook.md:	A code book that describes the variables, the data, and any transformations or works that has been performed to clean up the data.
 
