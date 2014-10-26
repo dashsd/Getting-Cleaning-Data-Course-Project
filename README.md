@@ -11,6 +11,3 @@ Contains of this repo are as follows:
 3.	Tidydata.txt:	This text file contains the required tidy data set for analysis.
 
 4.	README.md:	This is the readme file for the repo briefly explaining the working of the scripts associated with this project.
-
-5.	UCI HAR Dataset:  This folder contains the input data for the project downloaded from:
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
